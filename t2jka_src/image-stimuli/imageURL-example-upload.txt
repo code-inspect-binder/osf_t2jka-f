@@ -1,0 +1,182 @@
+[[AdvancedFormat]] 
+
+[[Block:1]] 
+
+              [[Question:DB]] 
+ [[ID:1-image]] 
+<img src='https://kusurvey.ca1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_8itBdLcuZwQ1nOm'> 
+
+              [[Question:TE:SingleLine]] 
+ [[ID:1-TE]] 
+How old is this animal? 
+
+              [[Question:MC:SingleAnswer:Vertical]] 
+ [[ID:1-MC]] 
+Where does this animal live? 
+ [[Choices]] 
+Water 
+ Sky 
+ No idea 
+
+
+              [[Question:Matrix]] 
+ [[ID:1-ratings]] 
+ Please rate how much you agree with the following statements. 
+ [[AdvancedChoices]] 
+ [[Choice]] 
+ This animal is suitable for a house pet. 
+ [[Choice]] 
+ I would not want this animal to be in my home. 
+
+ [[AdvancedAnswers]] 
+ [[Answer]] 
+1 - Strongly Disagree
+ [[Answer]] 
+ 2 
+ [[Answer]] 
+ 3 
+ [[Answer]] 
+ 4 
+ [[Answer]] 
+ 5 
+ [[Answer]] 
+ 6 
+ [[Answer]] 
+7 - Strongly Agree 
+ [[PageBreak]] 
+
+[[Block:2]] 
+
+              [[Question:DB]] 
+ [[ID:2-image]] 
+<img src='https://kusurvey.ca1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_eWgwFIpKbWRn03Q'> 
+
+              [[Question:TE:SingleLine]] 
+ [[ID:2-TE]] 
+How old is this animal? 
+
+              [[Question:MC:SingleAnswer:Vertical]] 
+ [[ID:2-MC]] 
+Where does this animal live? 
+ [[Choices]] 
+Water 
+ Sky 
+ No idea 
+
+
+              [[Question:Matrix]] 
+ [[ID:2-ratings]] 
+ Please rate how much you agree with the following statements. 
+ [[AdvancedChoices]] 
+ [[Choice]] 
+ This animal is suitable for a house pet. 
+ [[Choice]] 
+ I would not want this animal to be in my home. 
+
+ [[AdvancedAnswers]] 
+ [[Answer]] 
+1 - Strongly Disagree
+ [[Answer]] 
+ 2 
+ [[Answer]] 
+ 3 
+ [[Answer]] 
+ 4 
+ [[Answer]] 
+ 5 
+ [[Answer]] 
+ 6 
+ [[Answer]] 
+7 - Strongly Agree 
+ [[PageBreak]] 
+
+[[Block:3]] 
+
+              [[Question:DB]] 
+ [[ID:3-image]] 
+<img src='https://kusurvey.ca1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_bOgxzLou67211hI'> 
+
+              [[Question:TE:SingleLine]] 
+ [[ID:3-TE]] 
+How old is this animal? 
+
+              [[Question:MC:SingleAnswer:Vertical]] 
+ [[ID:3-MC]] 
+Where does this animal live? 
+ [[Choices]] 
+Water 
+ Sky 
+ No idea 
+
+
+              [[Question:Matrix]] 
+ [[ID:3-ratings]] 
+ Please rate how much you agree with the following statements. 
+ [[AdvancedChoices]] 
+ [[Choice]] 
+ This animal is suitable for a house pet. 
+ [[Choice]] 
+ I would not want this animal to be in my home. 
+
+ [[AdvancedAnswers]] 
+ [[Answer]] 
+1 - Strongly Disagree
+ [[Answer]] 
+ 2 
+ [[Answer]] 
+ 3 
+ [[Answer]] 
+ 4 
+ [[Answer]] 
+ 5 
+ [[Answer]] 
+ 6 
+ [[Answer]] 
+7 - Strongly Agree 
+ [[PageBreak]] 
+
+[[Block:4]] 
+
+              [[Question:DB]] 
+ [[ID:4-image]] 
+<img src='https://kusurvey.ca1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_dhg1MvyfCVvElJY'> 
+
+              [[Question:TE:SingleLine]] 
+ [[ID:4-TE]] 
+How old is this animal? 
+
+              [[Question:MC:SingleAnswer:Vertical]] 
+ [[ID:4-MC]] 
+Where does this animal live? 
+ [[Choices]] 
+Water 
+ Sky 
+ No idea 
+
+
+              [[Question:Matrix]] 
+ [[ID:4-ratings]] 
+ Please rate how much you agree with the following statements. 
+ [[AdvancedChoices]] 
+ [[Choice]] 
+ This animal is suitable for a house pet. 
+ [[Choice]] 
+ I would not want this animal to be in my home. 
+
+ [[AdvancedAnswers]] 
+ [[Answer]] 
+1 - Strongly Disagree
+ [[Answer]] 
+ 2 
+ [[Answer]] 
+ 3 
+ [[Answer]] 
+ 4 
+ [[Answer]] 
+ 5 
+ [[Answer]] 
+ 6 
+ [[Answer]] 
+7 - Strongly Agree 
+ [[PageBreak]] 
+
